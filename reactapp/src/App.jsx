@@ -48,11 +48,11 @@ class App extends React.Component {
                 },
                 {
                 questionId : 4,
-                question : "What is the capital of India ?",
-                option1 : "Delhi",
-                option2 : "Mumbai",
-                option3 : "Kolkata",
-                option4 : "Chennai",
+                question : "What color is the sky ?",
+                option1 : "Blue",
+                option2 : "Red",
+                option3 : "Yellow",
+                option4 : "Green",
                 answer : "Delhi"
                 },
                 {
