@@ -21,7 +21,7 @@ class App extends React.Component {
             questionProp : [
                 {
                 questionId : 1,
-                question : "What is the father of our nation ?",
+                question : "Who is the father of our nation ?",
                 option1 : "Mahatma Gandhi",
                 option2 : "Jawaharlal Nehru",
                 option3 : "Donald Trump",
