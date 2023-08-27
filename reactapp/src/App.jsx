@@ -21,7 +21,7 @@ class App extends React.Component {
             questionProp : [
                 {
                 questionId : 1,
-                question : "What is the father of our nation ?",
+                question : "Who is the father of our nation ?",
                 option1 : "Mahatma Gandhi",
                 option2 : "Jawaharlal Nehru",
                 option3 : "Donald Trump",
@@ -48,12 +48,12 @@ class App extends React.Component {
                 },
                 {
                 questionId : 4,
-                question : "What is the capital of India ?",
-                option1 : "Delhi",
-                option2 : "Mumbai",
-                option3 : "Kolkata",
-                option4 : "Chennai",
-                answer : "Delhi"
+                question : "What color is the sky ?",
+                option1 : "Blue",
+                option2 : "Red",
+                option3 : "Yellow",
+                option4 : "Green",
+                answer : "Blue"
                 },
                 {
                 questionId : 5,
