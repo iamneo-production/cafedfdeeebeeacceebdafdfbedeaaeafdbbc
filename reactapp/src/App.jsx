@@ -53,7 +53,7 @@ class App extends React.Component {
                 option2 : "Red",
                 option3 : "Yellow",
                 option4 : "Green",
-                answer : "Delhi"
+                answer : "Blue"
                 },
                 {
                 questionId : 5,
