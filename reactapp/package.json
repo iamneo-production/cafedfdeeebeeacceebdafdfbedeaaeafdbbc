@@ -23,11 +23,7 @@
       "react-app",
       "react-app/jest"
     ]
-  },
-  "jest": {
-    "setupFiles": [
-      "/setupTests.js"
-    ]
+  
   },
   "browserslist": {
     "production": [
